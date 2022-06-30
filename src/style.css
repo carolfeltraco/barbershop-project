@@ -1,0 +1,25 @@
+.logo {
+  width: 80px;
+}
+
+.img-carousel {
+  height: 850px;
+  object-fit: cover;
+  object-position: 0;
+  margin-top: 5rem;
+}
+
+.card-largura {
+  width: 20rem;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.img-produto {
+  height: 300px;
+  object-fit: cover;
+}
