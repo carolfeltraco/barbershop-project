@@ -6,7 +6,6 @@
   height: 850px;
   object-fit: cover;
   object-position: 0;
-  margin-top: 5rem;
 }
 
 .card-largura {
@@ -22,4 +21,30 @@
 .img-produto {
   height: 300px;
   object-fit: cover;
+}
+
+.form-label {
+  margin-bottom: unset;
+  margin-top: .5rem;
+}
+
+.invalid-feedback {
+  margin-bottom: .2rem;
+}
+
+.btn-enviar {
+  margin-top: 15px;
+  background-color: rgb(71, 60, 24);
+  color: rgb(255, 255, 255);
+}
+
+.btn-enviar:hover {
+  border: 1px solid;
+  background-color: rgb(71, 60, 24);
+  color: rgb(255, 255, 255);
+}
+
+.btn produto-amostra {
+  background-color: #fff;
+  color:rgb(255, 255, 255);
 }
